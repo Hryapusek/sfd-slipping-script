@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SFD.GameScriptInterface">
+      <HintPath>D:\SteamLibrary\steamapps\common\Superfighters Deluxe\SFD.GameScriptInterface.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
