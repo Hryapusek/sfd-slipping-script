@@ -10,7 +10,7 @@
         readonly static string TIMER_COOLDOWN_MS_KEY = "TimerSlippingCooldownMs";
         readonly static int DEFAULT_SLIPPING_COOLDOWN_MS = 700;
         readonly static string SET_COOLDOWN_COMMAND = "setslipcd";
-        readonly static String version = "0.0.1";
+        readonly static String version = "0.0.2";
         readonly static int BULLET_TRACE_EFFECT_X_OFFSET = -1;
         readonly static int BULLET_TRACE_EFFECT_Y_OFFSET = 13;
         TeamSwitcher teamSwitcher = null;
