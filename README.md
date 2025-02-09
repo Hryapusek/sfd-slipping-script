@@ -6,3 +6,4 @@
 - [HARD] Double damage when kicked while slipping
 - Slip only when not attacking
 - Increase cooldown
+- [HARD] Double damage when hit from player in air
